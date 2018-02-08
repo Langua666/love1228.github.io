@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-08T02:14:55.823Z</updated>
+  <updated>2018-02-07T15:54:54.546Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,42 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>This my first blog</title>
-    <link href="http://yoursite.com/2018/02/08/This-my-first-blog/"/>
-    <id>http://yoursite.com/2018/02/08/This-my-first-blog/</id>
-    <published>2018-02-08T02:14:55.000Z</published>
-    <updated>2018-02-08T02:14:55.823Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Good</title>
-    <link href="http://yoursite.com/2018/02/08/Good/"/>
-    <id>http://yoursite.com/2018/02/08/Good/</id>
-    <published>2018-02-07T16:44:41.000Z</published>
-    <updated>2018-02-07T16:49:47.101Z</updated>
-    
-    <content type="html"><![CDATA[<p>Cpp Japanese words.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Cpp Japanese words.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
